@@ -1,7 +1,6 @@
-# Portfolio 
+# PORTFOLIO 
 
-This repo is for my Porfolio site. 
+This is the source for my portfolio site to showcase my past projects and experience. Link: https://www.antonykithinzi.com
 
-It is Built by React JS, Next JS and Tailwind CSS.
+The site is built using React JS, Next JS and Tailwind CSS.
 
-Link : https://www.antonykithinzi.com
